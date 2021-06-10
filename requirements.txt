@@ -1,5 +1,5 @@
 boto==2.38.0
-Django==1.7.7
+Django==2.2.24
 django-suit==0.2.13
 Pillow==2.8.2
 psycopg2==2.6.1
